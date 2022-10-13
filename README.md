@@ -1,2 +1,2 @@
-# mobile-techshare-samples
-mobile-techshare
+# mobile-techshare
+GOGOX Mobile Technical Sharing Project
