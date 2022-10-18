@@ -1,4 +1,4 @@
-print("Strategy Pattern, is a Behavioural pattern > that allows the program to pick an algorithm at runtime!\n\n")
+print("Strategy Pattern, is a Behavioural pattern > that allows the program to pick an algorithm at runtime!\n")
 
 // - MARK: Compiletime Part
 
