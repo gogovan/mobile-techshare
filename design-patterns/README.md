@@ -4,4 +4,4 @@
 * Builder Pattern: https://gogox.notion.site/Builder-Pattern-c974899a2449491f95d23b7b6e2393a6
 * Observer Pattern: https://gogox.notion.site/Observer-Pattern-1b5b53ab65504a3b876df6612b4c00f8
 * Abstract Factory Pattern: https://www.notion.so/gogox/Abstract-Factory-Pattern-7ac330f62ed14ff38691c5ef1ca7508c
-* Decorator Pattern: https://gogox.notion.site/Decorator-Pattern-2e1d53bf9ac248cbbb8c1bbc3bcb0472
+* Decorator Pattern: https://www.notion.so/gogox/Decorator-Pattern-2e1d53bf9ac248cbbb8c1bbc3bcb0472
