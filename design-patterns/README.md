@@ -6,3 +6,4 @@
 * Abstract Factory Pattern: https://www.notion.so/gogox/Abstract-Factory-Pattern-7ac330f62ed14ff38691c5ef1ca7508c
 * Decorator Pattern: https://www.notion.so/gogox/Decorator-Pattern-2e1d53bf9ac248cbbb8c1bbc3bcb0472
 * Bridge Pattern: https://www.notion.so/gogox/Bridge-Pattern-c76ded8aa4274dabac9e1197474fc1e9
+* Adapter Pattern: https://www.notion.so/gogox/Adapter-Pattern-ad55859218ae448a8868a82184718f9b
